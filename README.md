@@ -28,9 +28,9 @@ This MG model can also be used to generate NMSSM-type decays like h→SS→4b by
 
 This model has been verified to reproduce results obtained from analytical expressions for various decay widths.
 
-HAHM_MG5model_v1: includes pdf manual with explicit usage instructions at the end)
-HAHM_MG5model_v2: includes nonzero electron and muon yukawa couplings to simulate hs > mumu etc
-HAHM_MG5model_v3: includes nonzero muon and yukawa MASSES to properly simulate zp > mumu etc at very low zd masses
+* HAHM_MG5model_v1: includes pdf manual with explicit usage instructions at the end)
+* HAHM_MG5model_v2: includes nonzero electron and muon yukawa couplings to simulate hs > mumu etc
+* HAHM_MG5model_v3: includes nonzero muon and yukawa MASSES to properly simulate zp > mumu etc at very low zd masses
 
 If you have questions about the model please email David Curtin (david.r.curtin@gmail.com).
 
