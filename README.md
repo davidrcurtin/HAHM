@@ -31,6 +31,7 @@ This model has been verified to reproduce results obtained from analytical expre
 * HAHM_MG5model_v1: includes pdf manual with explicit usage instructions at the end)
 * HAHM_MG5model_v2: includes nonzero electron and muon yukawa couplings to simulate hs > mumu etc
 * HAHM_MG5model_v3: includes nonzero muon and yukawa MASSES to properly simulate zp > mumu etc at very low zd masses
+* HAHM_variableMW_v4_YUKseparate: includes Yukawa couplings for all generations of leptons
 
 If you have questions about the model please email David Curtin (david.r.curtin@gmail.com).
 
@@ -47,5 +48,5 @@ All of these computed widths and branching ratios can be downloaded in the Higgs
 
 References:
 If you use this MG model in your own theory study or experimental analysis, please cite the following references:
-- "Exotic Decays of the 125 GeV Higgs Boson" by Curtin, Essig, Gori, Jaiswal, Katz, Liu, Liu, McKeen, Shelton, Strassler, Surujon, Tweedie and Zhong. (arXiv:1312.4992)
-- "Illuminating Dark Photons with High-Energy Colliders", by Curtin, Essig, Gori, Shelton (arXiv:1412.0018)
+* "Exotic Decays of the 125 GeV Higgs Boson" by Curtin, Essig, Gori, Jaiswal, Katz, Liu, Liu, McKeen, Shelton, Strassler, Surujon, Tweedie and Zhong. (arXiv:1312.4992)
+* "Illuminating Dark Photons with High-Energy Colliders", by Curtin, Essig, Gori, Shelton (arXiv:1412.0018)
