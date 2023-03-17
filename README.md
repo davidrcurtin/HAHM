@@ -32,6 +32,7 @@ This model has been verified to reproduce results obtained from analytical expre
 * HAHM_MG5model_v2: includes nonzero electron and muon yukawa couplings to simulate hs > mumu etc
 * HAHM_MG5model_v3: includes nonzero muon and yukawa MASSES to properly simulate zp > mumu etc at very low zd masses
 * HAHM_variableMW_v4_YUKseparate: includes Yukawa couplings for all generations of leptons
+* HAHM_MG5model_v5_allyuk: includes Yukawa couplings for ALL SM fermions, AND has been tweaked to compile with Feynrules 2.3.31 
 
 If you have questions about the model please email David Curtin (david.r.curtin@gmail.com).
 
