@@ -1,6 +1,8 @@
 # HAHM
 SM + Dark Vector + Dark Higgs Madgraph5 Model
 
+NOTE: FOR COMPILATION WITH FEYNRULES 2.3.31, USE v5 (see below)
+
 
 A very simple extension of the standard model involves adding a "dark" U(1) gauge group that is broken by a dark higgs vev. The "dark vector" ZD can then kinetically mix with the U(1)B gauge boson, and the "dark higgs" S (or hS) can mix with the SM doublet higgs via the higgs portal |H|2|S|2 operator. (For a more complete definition see here.) This can induce a variety of exotic higgs decays like
 h  → Z ZD (if kinetic mixing dominates)
